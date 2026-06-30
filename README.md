@@ -1,6 +1,6 @@
-# 🐔 AI-Based Poultry Health Monitoring and Patrolling Robot
+ AI-Based Poultry Health Monitoring and Patrolling Robot
 
-## 📖 Overview
+📖 Overview
 
 This project presents an AI-powered poultry health monitoring system that combines **Computer Vision**, **Deep Learning**, and **Image Processing** to automatically detect unhealthy chickens in poultry farms.
 
@@ -8,7 +8,7 @@ The system continuously monitors poultry movement using a camera and classifies 
 
 ---
 
-## 🚀 Features
+🚀 Features
 
 - AI-powered poultry health monitoring
 - Computer Vision using OpenCV
@@ -20,7 +20,7 @@ The system continuously monitors poultry movement using a camera and classifies 
 
 ---
 
-## 🛠️ Tech Stack
+Tech Stack
 
 - Python
 - TensorFlow
@@ -32,7 +32,6 @@ The system continuously monitors poultry movement using a camera and classifies 
 
 ---
 
-## 🔄 Workflow
 
 Dataset Collection
 
@@ -58,7 +57,7 @@ Health Monitoring
 
 ---
 
-## 📁 Project Structure
+Project Structure
 
 ```
 AI-Poultry-Health-Monitoring-System/
@@ -76,7 +75,7 @@ AI-Poultry-Health-Monitoring-System/
 
 ---
 
-## 📈 Future Improvements
+ Future Improvements
 
 - YOLO-based chicken detection
 - Thermal camera integration
@@ -86,7 +85,7 @@ AI-Poultry-Health-Monitoring-System/
 
 ---
 
-## 👨‍💻 Author
+ Author
 
 **Vinay Hegde**
 
